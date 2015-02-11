@@ -7,7 +7,7 @@
     "group_bytes_by_bits" : 16,
 
     // These are the valid bytes per line options
-    "valid_bytes_per_line" : [8, 10, 16, 24, 32, 48, 64, 128, 256, 512],
+    "valid_bytes_per_line" : [4, 8, 10, 16, 24, 32, 48, 64, 128, 256, 512],
 
     // Number of 8 bit bytes per line.
     // See "valid_bytes_per_line" for valid options
